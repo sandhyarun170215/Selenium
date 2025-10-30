@@ -6,6 +6,7 @@ public class GitPractice {
 		System.out.println("hi");
 		System.out.println("Created");
 	 System.out.println("hello");
+	 System.out.println("bye");
 
 	}
 
